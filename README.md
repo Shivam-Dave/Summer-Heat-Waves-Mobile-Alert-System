@@ -34,9 +34,9 @@ The "Summer Heat Waves Mobile Alert System" repository contains scripts and reso
  
  
 ## Usage
-1.Open the Jupyter Notebook file.
-2.Set up your Twilio and OpenWeatherMap API keys.
-3.Run the script to start receiving heat wave alerts on your mobile device.
+1. Open the Jupyter Notebook file.
+2. Set up your Twilio and OpenWeatherMap API keys.
+3. Run the script to start receiving heat wave alerts on your mobile device.
 
 
 ## License
